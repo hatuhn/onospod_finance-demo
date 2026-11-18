@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[51487,[],""]
+3:I[61539,[],""]
+:HL["/onospod_finance-demo/_next/static/css/c7c1c6d2bfba9f61.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/onospod_finance-demo/_next/static/css/c7c1c6d2bfba9f61.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lThfnJDZw5ub8op4VVsgA"}

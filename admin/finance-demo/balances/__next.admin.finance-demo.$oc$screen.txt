@@ -1,0 +1,6 @@
+1:I[51487,[],"LoadingBoundaryProvider"]
+2:"$Sreact.fragment"
+3:I[51487,[],""]
+4:I[61539,[],""]
+5:[]
+0:{"rsc":["$","$L1",null,{"loading":[["$","main","l",{"aria-busy":"true","aria-label":"Loading / Đang tải","children":[["$","div",null,{"className":"metric-grid","children":[["$","div","0",{"className":"card metric"}],["$","div","1",{"className":"card metric"}],["$","div","2",{"className":"card metric"}],["$","div","3",{"className":"card metric"}]]}],["$","div",null,{"className":"card metric"}]]}],[],[]],"children":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}]}],"isPartial":false,"staleTime":300,"varyParams":"$W5","buildId":"lThfnJDZw5ub8op4VVsgA"}

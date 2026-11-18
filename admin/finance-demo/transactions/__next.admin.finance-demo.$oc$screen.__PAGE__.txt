@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[71944,["371","static/chunks/371-51fde6ccd9b7e9a2.js","418","static/chunks/418-9c3493cd7a357187.js","609","static/chunks/609-b2290834c3b9d32b.js","416","static/chunks/416-c3b045e4b397a926.js","168","static/chunks/app/admin/finance-demo/%5B%5B...screen%5D%5D/page-0617b2e91048f6ed.js"],"FinanceApp"]
+3:I[98934,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"initialScreen":"transactions","initialLocation":"/onospod_finance-demo/admin/finance-demo/transactions"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"lThfnJDZw5ub8op4VVsgA"}
+5:null

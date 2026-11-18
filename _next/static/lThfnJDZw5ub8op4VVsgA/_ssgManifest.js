@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fadmin\u002Ffinance-demo\u002F[[...screen]]","\u002Fadmin\u002Ffinance-demo\u002Fworkspaces\u002F[workspace]\u002F[[...screen]]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
